@@ -1,11 +1,11 @@
 {
-  "name": "node-project",
+  "name": "cloudshield-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "DevSecOps Hackathon App",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
   },
-  "author": "",
+  "author": "cloudshield",
   "license": "ISC"
 }
